@@ -1,0 +1,79 @@
+@import url("https://use.typekit.net/vkl7mvg.css");
+
+.attractions{
+padding: auto;
+}
+.header {
+    text-align: center;
+    font-size: 40px;
+    color: #002742;
+    font-family: "merriweather", serif;
+    font-weight: 600;
+    font-style: normal;
+    margin-bottom: 20px;
+}
+
+.attractions-container {
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.c1,
+.c2 {
+    width: 100%; 
+    max-width: 100%; 
+    margin-bottom: 20px;  
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 768px) {
+    .attractions-container {
+        justify-content: space-between;
+    }
+
+    .c1,
+    .c2 {
+        width: 48%;
+        max-width: 48%;
+        flex: 1;
+    }
+}
+
+.c1 img,
+.c2 img {
+    width: 100%;
+    height: auto; 
+    border-radius: 10px;
+}
+
+.c1 h1,
+.c2 h1 {
+    font-size: 30px;
+    color: #002742;
+    font-family: "merriweather", serif;
+    font-weight: 600;
+    font-style: normal;
+    margin-bottom: 2vh;
+    padding: 4%;
+}
+
+.c1 p,
+.c2 p {
+    font-size: 20px;
+    color: #002742;
+    font-family: "merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 4%;
+    text-align: justify;
+
+}
+
+@media (max-width: 768px){
+    .attractions{
+        margin-top: 100vh;
+    }
+}
