@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-website/static/css/main.55f710e6.css",
+    "main.js": "/React-website/static/js/main.174ba407.js",
+    "static/media/e.jpg": "/React-website/static/media/e.e78e890052566f797265.jpg",
+    "static/media/home.jpg": "/React-website/static/media/home.88f64e013084e6ba94bb.jpg",
+    "static/media/i.jpg": "/React-website/static/media/i.a9f84aa292ebd9b1d767.jpg",
+    "static/media/a.jpg": "/React-website/static/media/a.b67df9783dbacd1d5a8e.jpg",
+    "static/media/c.jpg": "/React-website/static/media/c.f1eedfab5a6872a15f9a.jpg",
+    "static/media/h.jpg": "/React-website/static/media/h.1503305e8230dc96966e.jpg",
+    "static/media/d.jpg": "/React-website/static/media/d.08906f78fe347c08d4b5.jpg",
+    "static/media/f.jpg": "/React-website/static/media/f.a7a95518ab4c89e73933.jpg",
+    "static/media/g.jpg": "/React-website/static/media/g.31ae7e063b41b96d803c.jpg",
+    "static/media/j.jpg": "/React-website/static/media/j.9437821583bdaa4b2453.jpg",
+    "static/media/b.jpg": "/React-website/static/media/b.6d1a3f289c7029fdd841.jpg",
+    "index.html": "/React-website/index.html",
+    "main.55f710e6.css.map": "/React-website/static/css/main.55f710e6.css.map",
+    "main.174ba407.js.map": "/React-website/static/js/main.174ba407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55f710e6.css",
+    "static/js/main.174ba407.js"
+  ]
+}
